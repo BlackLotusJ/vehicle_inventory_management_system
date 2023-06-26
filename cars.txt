@@ -1,0 +1,60 @@
+Toyota Corolla, 80,000 miles, 2015, +1 (555) 123-4567, USA, 1,500,000 KES
+Honda Civic, 100,000 miles, 2012, +44 1234 567890, UK, 1,200,000 KES
+BMW X5, 50,000 miles, 2018, +1 (555) 987-6543, USA, 6,500,000 KES
+Mercedes-Benz C-Class, 70,000 miles, 2016, +33 1 23 45 67 89, France, 2,800,000 KES
+Nissan Altima, 90,000 miles, 2013, +1 (555) 555-5555, USA, 1,600,000 KES
+Audi A4, 60,000 miles, 2017, +49 1234 567890, Germany, 3,400,000 KES
+Ford Fusion, 110,000 miles, 2011, +1 (555) 111-1111, USA, 1,000,000 KES
+Volkswagen Passat, 85,000 miles, 2014, +44 1234 567890, UK, 1,800,000 KES
+Chevrolet Malibu, 95,000 miles, 2013, +1 (555) 222-2222, USA, 1,500,000 KES
+Toyota Camry, 75,000 miles, 2015, +81 3-1234-5678, Japan, 2,000,000 KES
+Honda Accord, 120,000 miles, 2010, +1 (555) 333-3333, USA, 900,000 KES
+BMW 3 Series, 40,000 miles, 2019, +1 (555) 444-4444, USA, 4,700,000 KES
+Mercedes-Benz E-Class, 65,000 miles, 2016, +44 1234 567890, UK, 3,100,000 KES
+Nissan Maxima, 100,000 miles, 2012, +1 (555) 555-1234, USA, 1,900,000 KES
+Audi A6, 55,000 miles, 2017, +49 1234 567890, Germany, 3,800,000 KES
+Ford Mustang, 90,000 miles, 2013, +1 (555) 777-7777, USA, 2,300,000 KES
+Volkswagen Jetta, 80,000 miles, 2014, +44 1234 567890, UK, 1,700,000 KES
+Chevrolet Impala, 95,000 miles, 2013, +1 (555) 888-8888, USA, 1,800,000 KES
+Toyota Avalon, 70,000 miles, 2015, +81 3-1234-5678, Japan, 2,300,000 KES
+Honda Fit, 85,000 miles, 2014, +1 (555) 999-9999, USA, 1,200,000 KES
+BMW 5 Series, 50,000 miles, 2018, +1 (555) 123-4567, USA, 5,900,000 KES
+Mercedes-Benz S-Class, 75,000 miles, 2015, +33 1 23 45 67 89, France, 5,200,000 KES
+Nissan Sentra, 95,000 miles, 2013, +1 (555) 555-5555, USA, 1,400,000 KES
+Audi Q5, 60,000 miles, 2017, +49 1234 567890, Germany, 4,500,000 KES
+Ford Escape, 110,000 miles, 2011, +1 (555) 111-1111, USA, 1,100,000 KES
+Volkswagen Golf, 85,000 miles, 2014, +44 1234 567890, UK, 1,900,000 KES
+Chevrolet Cruze, 90,000 miles, 2013, +1 (555) 222-2222, USA, 1,300,000 KES
+Toyota Highlander, 75,000 miles, 2015, +81 3-1234-5678, Japan, 3,000,000 KES
+Honda Pilot, 120,000 miles, 2010, +1 (555) 333-3333, USA, 1,400,000 KES
+BMW 7 Series, 40,000 miles, 2019, +1 (555) 444-4444, USA, 7,000,000 KES
+Mercedes-Benz CLA-Class, 65,000 miles, 2016, +33 1 23 45 67 89, France, 2,900,000 KES
+Nissan Rogue, 100,000 miles, 2012, +1 (555) 555-1234, USA, 1,800,000 KES
+Audi Q7, 55,000 miles, 2017, +49 1234 567890, Germany, 5,200,000 KES
+Ford Edge, 90,000 miles, 2013, +1 (555) 777-7777, USA, 2,000,000 KES
+Volkswagen Tiguan, 80,000 miles, 2014, +44 1234 567890, UK, 2,100,000 KES
+Chevrolet Equinox, 95,000 miles, 2013, +1 (555) 888-8888, USA, 1,900,000 KES
+Toyota RAV4, 70,000 miles, 2015, +81 3-1234-5678, Japan, 2,500,000 KES
+Honda CR-V, 85,000 miles, 2014, +1 (555) 999-9999, USA, 2,200,000 KES
+BMW 6 Series, 50,000 miles, 2018, +1 (555) 123-4567, USA, 6,800,000 KES
+Mercedes-Benz GL-Class, 75,000 miles, 2015, +331 23 45 67 89, France, 5,500,000 KES
+Nissan Altima, 90,000 miles, 2013, +1 (555) 555-5555, USA, 1,600,000 KES
+Chevrolet Impala, 90,000 miles, 2013, +1 (555) 222-2222, USA, 1,500,000 KES
+Toyota Corolla, 75,000 miles, 2015, +81 3-1234-5678, Japan, 2,000,000 KES
+Honda Civic, 120,000 miles, 2010, +1 (555) 333-3333, USA, 1,200,000 KES
+BMW X3, 40,000 miles, 2019, +1 (555) 444-4444, USA, 6,500,000 KES
+Mercedes-Benz GLE-Class, 65,000 miles, 2016, +33 1 23 45 67 89, France, 3,800,000 KES
+Nissan Maxima, 100,000 miles, 2012, +1 (555) 555-1234, USA, 2,000,000 KES
+Audi A8, 55,000 miles, 2017, +49 1234 567890, Germany, 5,900,000 KES
+Ford Fusion, 90,000 miles, 2013, +1 (555) 777-7777, USA, 1,800,000 KES
+Volkswagen Jetta, 80,000 miles, 2014, +44 1234 567890, UK, 1,700,000 KES
+Chevrolet Malibu, 95,000 miles, 2013, +1 (555) 888-8888, USA, 1,400,000 KES
+Toyota Camry, 70,000 miles, 2015, +81 3-1234-5678, Japan, 2,300,000 KES
+Honda Accord, 85,000 miles, 2014, +1 (555) 999-9999, USA, 2,100,000 KES
+BMW 3 Series, 50,000 miles, 2018, +1 (555) 123-4567, USA, 4,500,000 KES
+Mercedes-Benz E-Class, 75,000 miles, 2015, +33 1 23 45 67 89, France, 4,200,000 KES
+Nissan Versa, 90,000 miles, 2013, +1 (555) 555-5555, USA, 1,300,000 KES
+Audi A6, 60,000 miles, 2017, +49 1234 567890, Germany, 4,800,000 KES
+Ford Focus, 110,000 miles, 2011, +1 (555) 111-1111, USA, 1,000,000 KES
+Volkswagen Passat, 85,000 miles, 2014, +44 1234 567890, UK, 1,800,000 KES
+Jeep_Grand_Cherokee, 20000, 2022, 0757923928, USA, 10000000.00
